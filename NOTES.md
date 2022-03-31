@@ -1,6 +1,8 @@
 # context
 
-JIRA clone : C'est une application permettant d'afficher une liste de ticket ordonnée par des status (TODO<IN_PROGRESS<DONE) matche avec leur status
+JIRA clone : C'est une application permettant d'afficher une liste de ticket ordonnée par des status (TODO<IN_PROGRESS<DONE) matche avec leur status.
+Construire un JIRA clone dans React
+Coder la partie front-end et relier sur un API pre-existé.
 
 # actions 
 
@@ -23,3 +25,5 @@ https://jsonplaceholder.typicode.com/todos
 
 # techno 
 React
+
+https://ibb.co/p3Dv9B2
